@@ -1,7 +1,7 @@
-📂 File Handling and Exception Handling Assignment
-📌 Description
+*****📂 File Handling and Exception Handling Assignment*****
+***📌 Description***
 
-This assignment demonstrates how to work with files and exceptions in Python.
+****This assignment demonstrates how to work with files and exceptions in Python.****
 It includes two main parts:
 
 File Read & Write Challenge 🖋️
@@ -12,7 +12,7 @@ Modifies the content (adds line numbers).
 
 Saves the modified content into a new file (output.txt).
 
-Error Handling Lab 🧪
+***Error Handling Lab 🧪***
 
 Asks the user to enter a filename.
 
@@ -20,7 +20,7 @@ Attempts to read the file.
 
 Gracefully handles errors if the file doesn’t exist or cannot be accessed.
 
-🛠️ Files in this Repository
+***🛠️ Files in this Repository***
 
 file_read_write.py → Handles file reading, modifying, and writing.
 
@@ -30,7 +30,7 @@ input.txt → Sample input file.
 
 output.txt → Generated output file (after running file_read_write.py).
 
-🚀 How to Run the Programs
+***🚀 How to Run the Programs***
 1. File Read & Write Challenge
 python file_read_write.py
 
@@ -47,7 +47,7 @@ Enter a filename when prompted.
 
 If the file doesn’t exist, the program will display a friendly error message.
 
-🎉 Outcomes
+***🎉 Outcomes***
 
 By completing this assignment, you will:
 
